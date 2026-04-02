@@ -29,7 +29,3 @@ python app.py
 * Interface moderna (tema)
 * Estatísticas de uso
 * Exportar como .exe
-
----
-
-Feito por [SEU NOME]
